@@ -1,5 +1,4 @@
-
-
+Jiyoung
 
 ## Git Pointer
 
@@ -9,24 +8,24 @@
 **Master branch**
   - 가장 기본이 되는 Brach
   - Master branch 는 Git 에서 기본으로 생성해준다.
-    
+
 **origin**
   - 원격 Repository 를 뜻하는 Alias
   - Alias이므로이름을변경할수있다.
-    
+
 **origin/master**
   - 원격 Repository 의 master branch
 
 **origin/HEAD**
   - 원격 Repository 가 바라보는 버전  
-    
+
 ---
 
 ## Attention Part in Git_KeyNote_1.pdf
 
 * Git Essential Concept : 22 ~ 23
 
-* Stash : 25 ~ 27 
+* Stash : 25 ~ 27
 
 * Tag : 29 ~ 31
 
@@ -49,13 +48,13 @@
 
 * Make Organization 100 ~ 103
 
-* Gist : 104 
+* Gist : 104
 
 * Git Flow : 119 ~ 124
 
 * Commit Message  : 125 ~ 128
 
---- 
+---
 
 ## Attention Part in Git_KeyNote_2.pdf
 
@@ -64,7 +63,3 @@
 * Hash : 43 ~ 44
 
 * Git Pointer : 131 ~ 132
-
-
-
-
